@@ -1,4 +1,4 @@
-import FlipImage from "../FlipImage";
+import FlipImage from "@/components/FlipImage";
 import Link from "next/link";
 
 const menuImg = {
