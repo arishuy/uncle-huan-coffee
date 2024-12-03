@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-function FlipImage({ image1, image2 }: any) {
+function FlipImage({ image1, image2 }: { image1: string; image2: string }) {
     return (
         <div className="card w-full">
             <div className="card__content relative p-20 transition-transform duration-1000">
