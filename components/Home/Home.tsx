@@ -20,14 +20,6 @@ function Home() {
                         <p className="text-lg md:text-2xl mb-6">
                             A perfect place to relax and enjoy your favorite drinks.
                         </p>
-                        <div className="text-center">
-                            <a
-                                href="#menu"
-                                className="px-6 py-3 bg-yellow-500 text-gray-800 rounded-lg hover:bg-yellow-400 transition duration-300 font-semibold"
-                            >
-                                Explore Menu
-                            </a>
-                        </div>
                     </div>
                 </div>
             </section >
