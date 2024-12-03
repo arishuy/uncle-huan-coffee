@@ -39,7 +39,7 @@ function Review() {
                     WHAT <span className="text-yellow-200">CUSTOMERS</span> SAY
                 </h2>
                 <div className="flex items-center justify-center mb-8">
-                    <h4 className="text-center text-wrap w-1/2 text-black">
+                    <h4 className="text-center text-wrap w-1/2 text-yellow-50">
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                         Praesentium nemo facilis amet inventore unde recusandae dolore ab
                         nostrum maiores aliquam, modi officia perspiciatis perferendis illum

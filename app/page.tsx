@@ -1,4 +1,4 @@
-import About from "@/components/About";
+import CarouselDemo from "@/components/Carousel";
 import Contact from "@/components/Contact";
 import Home from "@/components/Home";
 import Menu from "@/components/Menu";
@@ -9,7 +9,7 @@ const page = () => {
   return (
     <div>
       <Home />
-      <About />
+      <CarouselDemo />
       <Menu />
       <Review />
       <Contact />
